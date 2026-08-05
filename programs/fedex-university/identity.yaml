@@ -1,0 +1,60 @@
+id: fedex-university
+name: FedEx University
+short_name: FedEx
+abbreviation: FXU
+nickname: Couriers
+
+classification:
+  type: corporate-university
+  operator: FedEx
+  status: active
+  inaugural_season: 2027
+  replaces_program: kennesaw-state
+
+location:
+  city: Memphis
+  state: Tennessee
+  country: United States
+
+stadium:
+  id: fred-smith-field
+  name: Fred Smith Field
+  capacity:
+    value: 50000
+    exact: false
+  opened: 2027
+  surface: null
+
+branding:
+  primary_color: FedEx Purple
+  secondary_color: FedEx Orange
+  visual_identity: corporate-logistics
+  uniforms:
+    description: Bold purple and orange combinations based on FedEx branding.
+
+academics:
+  tuition_model: no-tuition-employment-pathway
+  focus_areas:
+    - aviation
+    - pilot-training
+    - air-traffic-control
+    - supply-chain-management
+    - logistics
+    - operations-management
+    - fleet-maintenance
+    - business-management
+    - international-trade
+    - technology
+
+athletics:
+  football_program_status: new
+  initial_tier: 3
+  initial_conference: independent
+  prestige_stars: 4.5
+  facilities_level: elite
+  financial_resources: elite
+  football_history: none
+
+canon:
+  status: confirmed
+  source: direct-user-confirmation
