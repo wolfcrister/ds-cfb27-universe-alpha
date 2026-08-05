@@ -12,13 +12,12 @@ alignment:
 structure:
   total_programs: 138
   tier_1: 32
-  tier_2: 100
-  tier_3: 6
+  tier_2: 96
+  tier_3: 10
   note: >
-    CFB 27 contains four more programs than CFB 25. Tier 1 and Tier 3 retain
-    their inherited sizes. Tier 2 therefore contains 100 programs, divided
-    into four geographic macro-regions of 25. Each macro-region is split into
-    one 13-team conference and one 12-team conference.
+    CFB 27 contains four more programs than CFB 25. The original 96-team
+    Tier 2 structure is retained, with eight conferences of 12. Tier 3
+    expands from six to ten Independents.
 
 tier_1:
   qualification:
@@ -102,7 +101,7 @@ tier_1:
 tier_2:
   west_macro_region:
     pac_12:
-      team_count: 13
+      team_count: 12
       teams:
         - Hawaii
         - Washington State
@@ -111,17 +110,15 @@ tier_2:
         - California
         - UCLA
         - Fresno State
-        - San Jose State
-        - Sacramento State
         - San Diego State
         - Arizona
         - Arizona State
         - Nevada
+        - UNLV
     mountain_west:
       team_count: 12
       teams:
         - Boise State
-        - UNLV
         - Colorado
         - Colorado State
         - Air Force
@@ -129,13 +126,14 @@ tier_2:
         - Utah State
         - New Mexico
         - New Mexico State
-        - UTEP
         - NDSU
         - Kansas State
+        - Kansas
+        - Minnesota
 
   central_macro_region:
     conference_usa:
-      team_count: 13
+      team_count: 12
       teams:
         - Baylor
         - TCU
@@ -144,7 +142,6 @@ tier_2:
         - Texas State
         - UTSA
         - Tulsa
-        - Kansas
         - Iowa State
         - Missouri State
         - Memphis
@@ -153,7 +150,6 @@ tier_2:
     aac:
       team_count: 12
       teams:
-        - Minnesota
         - Wisconsin
         - Illinois
         - Northwestern
@@ -165,10 +161,11 @@ tier_2:
         - Cincinnati
         - Kentucky
         - Vanderbilt
+        - Marshall
 
   south_macro_region:
     sun_belt:
-      team_count: 13
+      team_count: 12
       teams:
         - App State
         - Coastal Carolina
@@ -182,7 +179,6 @@ tier_2:
         - Georgia State
         - Florida Atlantic
         - FIU
-        - USF
     sec:
       team_count: 12
       teams:
@@ -197,11 +193,11 @@ tier_2:
         - Troy
         - UAB
         - Jacksonville State
-        - South Alabama
+        - USF
 
   east_north_macro_region:
     mac:
-      team_count: 13
+      team_count: 12
       teams:
         - Akron
         - Bowling Green
@@ -211,7 +207,6 @@ tier_2:
         - Miami OH
         - Ohio
         - Toledo
-        - Marshall
         - West Virginia
         - Pittsburgh
         - Virginia Tech
@@ -240,9 +235,14 @@ tier_3:
     - UMass
     - Southern Miss
     - Sam Houston
+    - UTEP
+    - South Alabama
+    - San Jose State
+    - Sacramento State
   selection_note: >
-    FedEx University is guaranteed the replaced Kennesaw State position in
-    Tier 3. The other five places go to the five lowest-rated remaining teams.
+    FedEx University occupies the replaced Kennesaw State position. The other
+    nine places go to the nine lowest-rated remaining programs in the official
+    CFB 27 ratings.
 
 border_decisions:
   - id: tier1-west-east-cut
@@ -250,13 +250,19 @@ border_decisions:
     reason: LSU is the westernmost remaining Tier 1 border program after the first 15 western assignments
   - id: tier2-kansas-state-west
     decision: Kansas State assigned to Mountain West
-    reason: required to complete the 25-team West macro-region and fits the Plains-to-Mountain border
+    reason: fits the Plains-to-Mountain border and the interior West identity
   - id: tier2-north-dakota-state-west
     decision: NDSU assigned to Mountain West
-    reason: northern Plains geography fits the interior West identity better than the Central urban corridor
-  - id: tier2-liberty-mac
-    decision: Liberty assigned to MAC
-    reason: completes the East/North macro-region split while preserving the ACC as the Atlantic and Northeast group
+    reason: northern Plains geography fits the interior West identity
+  - id: tier2-kansas-west
+    decision: Kansas assigned to Mountain West
+    reason: required to restore the 24-team West macro-region after Tier 3 expansion
+  - id: tier2-minnesota-west
+    decision: Minnesota assigned to Mountain West
+    reason: northern geography balances the West macro-region at 24 teams
+  - id: tier2-marshall-central
+    decision: Marshall assigned to AAC
+    reason: restores the Central macro-region to 24 and matches the inherited lower-Midwest/Appalachian border logic
 
 tiebreak_decisions:
   - id: seventh-unranked-tier1-place
@@ -279,7 +285,9 @@ validation:
   checks:
     total_programs: 138
     tier_1_programs: 32
-    tier_2_programs: 100
-    tier_3_programs: 6
+    tier_2_programs: 96
+    tier_3_programs: 10
+    tier_2_conferences: 8
+    teams_per_tier_2_conference: 12
     duplicate_programs: 0
     missing_programs: 0
