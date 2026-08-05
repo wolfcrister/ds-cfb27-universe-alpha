@@ -24,6 +24,15 @@ stadium:
     exact: false
   opened: 2027
   surface: null
+  attendance_policy:
+    fedex_employees:
+      eligibility: all-active-employees
+      benefit: free-or-heavily-subsidized-tickets
+      purpose:
+        - employee-benefit
+        - build-home-field-culture
+        - connect-the-program-to-the-company
+      implementation_details: not-yet-finalized
 
 branding:
   primary_color: FedEx Purple
