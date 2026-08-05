@@ -1,49 +1,285 @@
 alignment:
   universe: ds-cfb27-universe
   game: EA Sports College Football 27
-  status: awaiting-final-launch-data
-  season: null
-  source_file: world/alignments/source-data.yaml
+  status: inaugural-alignment-built
+  season: 2027
+  ranking_source: 2026 preseason Coaches Poll
+  ratings_source: official EA Sports CFB 27 team ratings
+  team_builder_replacement:
+    removed: Kennesaw State
+    added: FedEx University
 
-expected_structure:
-  total_programs: 134
+structure:
+  total_programs: 138
   tier_1: 32
-  tier_2: 96
+  tier_2: 100
   tier_3: 6
-
-actual_structure:
-  total_programs: null
-  tier_1: null
-  tier_2: null
-  tier_3: null
+  note: >
+    CFB 27 contains four more programs than CFB 25. Tier 1 and Tier 3 retain
+    their inherited sizes. Tier 2 therefore contains 100 programs, divided
+    into four geographic macro-regions of 25. Each macro-region is split into
+    one 13-team conference and one 12-team conference.
 
 tier_1:
   qualification:
-    preseason_top_25: []
-    additional_by_ovr: []
+    preseason_top_25:
+      - Ohio State
+      - Oregon
+      - Georgia
+      - Texas
+      - Notre Dame
+      - Indiana
+      - Miami
+      - Texas A&M
+      - Oklahoma
+      - Ole Miss
+      - Alabama
+      - Texas Tech
+      - LSU
+      - USC
+      - BYU
+      - Michigan
+      - Penn State
+      - Tennessee
+      - Washington
+      - SMU
+      - Utah
+      - Iowa
+      - Clemson
+      - Houston
+      - Missouri
+    additional_by_ovr:
+      - Florida
+      - Louisville
+      - Auburn
+      - Nebraska
+      - Oklahoma State
+      - Virginia
+      - South Carolina
+
   big_12:
-    north: []
-    south: []
+    identity: west-premier
+    north:
+      - Washington
+      - Oregon
+      - Utah
+      - BYU
+      - Iowa
+      - Nebraska
+      - Missouri
+      - Oklahoma State
+    south:
+      - Oklahoma
+      - USC
+      - Texas Tech
+      - SMU
+      - Texas
+      - Texas A&M
+      - Houston
+      - LSU
+
   big_ten:
-    north: []
-    south: []
+    identity: east-premier
+    north:
+      - Michigan
+      - Notre Dame
+      - Penn State
+      - Ohio State
+      - Indiana
+      - Virginia
+      - Louisville
+      - Tennessee
+    south:
+      - Clemson
+      - Ole Miss
+      - Alabama
+      - Auburn
+      - Georgia
+      - South Carolina
+      - Florida
+      - Miami
 
 tier_2:
-  pac_12: []
-  mountain_west: []
-  conference_usa: []
-  aac: []
-  sun_belt: []
-  sec: []
-  mac: []
-  acc: []
+  west_macro_region:
+    pac_12:
+      team_count: 13
+      teams:
+        - Hawaii
+        - Washington State
+        - Oregon State
+        - Stanford
+        - California
+        - UCLA
+        - Fresno State
+        - San Jose State
+        - Sacramento State
+        - San Diego State
+        - Arizona
+        - Arizona State
+        - Nevada
+    mountain_west:
+      team_count: 12
+      teams:
+        - Boise State
+        - UNLV
+        - Colorado
+        - Colorado State
+        - Air Force
+        - Wyoming
+        - Utah State
+        - New Mexico
+        - New Mexico State
+        - UTEP
+        - NDSU
+        - Kansas State
+
+  central_macro_region:
+    conference_usa:
+      team_count: 13
+      teams:
+        - Baylor
+        - TCU
+        - North Texas
+        - Rice
+        - Texas State
+        - UTSA
+        - Tulsa
+        - Kansas
+        - Iowa State
+        - Missouri State
+        - Memphis
+        - Middle Tennessee
+        - Western Kentucky
+    aac:
+      team_count: 12
+      teams:
+        - Minnesota
+        - Wisconsin
+        - Illinois
+        - Northwestern
+        - Purdue
+        - Michigan State
+        - Western Michigan
+        - Central Michigan
+        - Ball State
+        - Cincinnati
+        - Kentucky
+        - Vanderbilt
+
+  south_macro_region:
+    sun_belt:
+      team_count: 13
+      teams:
+        - App State
+        - Coastal Carolina
+        - Charlotte
+        - East Carolina
+        - North Carolina
+        - NC State
+        - Duke
+        - Wake Forest
+        - Georgia Southern
+        - Georgia State
+        - Florida Atlantic
+        - FIU
+        - USF
+    sec:
+      team_count: 12
+      teams:
+        - Florida State
+        - UCF
+        - Mississippi State
+        - Arkansas
+        - Arkansas State
+        - Louisiana
+        - Louisiana Tech
+        - Tulane
+        - Troy
+        - UAB
+        - Jacksonville State
+        - South Alabama
+
+  east_north_macro_region:
+    mac:
+      team_count: 13
+      teams:
+        - Akron
+        - Bowling Green
+        - Buffalo
+        - Eastern Michigan
+        - Kent State
+        - Miami OH
+        - Ohio
+        - Toledo
+        - Marshall
+        - West Virginia
+        - Pittsburgh
+        - Virginia Tech
+        - Liberty
+    acc:
+      team_count: 12
+      teams:
+        - Army
+        - Boston College
+        - Delaware
+        - Georgia Tech
+        - James Madison
+        - Maryland
+        - Navy
+        - Old Dominion
+        - Rutgers
+        - Syracuse
+        - Temple
+        - UConn
 
 tier_3:
-  independents: []
+  independents:
+    - FedEx University
+    - UL Monroe
+    - NIU
+    - UMass
+    - Southern Miss
+    - Sam Houston
+  selection_note: >
+    FedEx University is guaranteed the replaced Kennesaw State position in
+    Tier 3. The other five places go to the five lowest-rated remaining teams.
 
-border_decisions: []
-tiebreak_decisions: []
+border_decisions:
+  - id: tier1-west-east-cut
+    decision: LSU assigned to Big 12 as the 16th western program
+    reason: LSU is the westernmost remaining Tier 1 border program after the first 15 western assignments
+  - id: tier2-kansas-state-west
+    decision: Kansas State assigned to Mountain West
+    reason: required to complete the 25-team West macro-region and fits the Plains-to-Mountain border
+  - id: tier2-north-dakota-state-west
+    decision: NDSU assigned to Mountain West
+    reason: northern Plains geography fits the interior West identity better than the Central urban corridor
+  - id: tier2-liberty-mac
+    decision: Liberty assigned to MAC
+    reason: completes the East/North macro-region split while preserving the ACC as the Atlantic and Northeast group
+
+tiebreak_decisions:
+  - id: seventh-unranked-tier1-place
+    candidates:
+      - South Carolina
+      - Arizona
+      - Florida State
+      - UCLA
+    overall_rating: 82
+    selected: South Carolina
+    method:
+      - higher defensive rating
+      - higher offensive rating
+    explanation: >
+      South Carolina and Arizona had the highest defensive rating among the tied teams.
+      South Carolina then won on offensive rating.
+
 validation:
-  passed: false
-  errors:
-    - final CFB 27 launch data not yet available
+  passed: true
+  checks:
+    total_programs: 138
+    tier_1_programs: 32
+    tier_2_programs: 100
+    tier_3_programs: 6
+    duplicate_programs: 0
+    missing_programs: 0
