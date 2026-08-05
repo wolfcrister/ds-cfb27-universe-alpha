@@ -1,0 +1,44 @@
+source:
+  game: EA Sports College Football 27
+  edition_or_build: null
+  data_status: awaiting-final-launch-data
+  captured_date: null
+  captured_by: null
+  notes: null
+
+program_count:
+  expected: 134
+  actual: null
+  discrepancy: null
+
+preseason_top_25: []
+
+programs: []
+
+# Program entry template:
+# - id: alabama
+#   name: Alabama
+#   preseason_rank: 1
+#   overall: 94
+#   offense: 93
+#   defense: 95
+#   prestige_stars: 5.0
+#   city: Tuscaloosa
+#   state: Alabama
+#   latitude: null
+#   longitude: null
+#   replaces_program: null
+#   source_status: confirmed
+
+replacement:
+  outgoing_program: kennesaw-state
+  incoming_program: fedex-university
+  method: replace-source-entry-before-seeding
+  confirmed: true
+
+selection_audit:
+  tier_1_top_25_ids: []
+  tier_1_additional_ovr_ids: []
+  tier_3_lowest_ovr_ids: []
+  rating_ties: []
+  unresolved: []
