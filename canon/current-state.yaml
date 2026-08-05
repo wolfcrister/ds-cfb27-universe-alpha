@@ -9,7 +9,7 @@ league:
   promotion_relegation_enabled: true
   tier_count: 3
   rules_file: world/rules/promotion-relegation.md
-  rules_source: copied-exactly-from-ds-college-football
+  rules_source: inherited-from-ds-college-football-and-adjusted-for-138-programs
   initial_seeding_file: world/rules/initial-seeding.md
   alignment_file: world/alignments/current.yaml
   alignment_source_file: world/alignments/source-data.yaml
@@ -17,8 +17,8 @@ league:
   alignment_status: inaugural-alignment-built
   total_programs: 138
   tier_1_programs: 32
-  tier_2_programs: 100
-  tier_3_programs: 6
+  tier_2_programs: 96
+  tier_3_programs: 10
 
 career:
   coach_id: daniel-sandberg
@@ -40,4 +40,4 @@ rpg:
 
 last_updated:
   date: 2026-08-05
-  source: official-cfb27-ratings-and-2026-preseason-coaches-poll
+  source: direct-user-decision-and-official-cfb27-ratings
