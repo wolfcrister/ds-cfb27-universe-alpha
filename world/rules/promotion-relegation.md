@@ -6,8 +6,8 @@
 |---|---|---:|---:|
 | Tier 1 | Elite level | Big 12 and Big Ten | 32 |
 | Tier 2 | Promotion level | Eight conferences | 96 |
-| Tier 3 | Sit-out and independent tier | Independents | 6 |
-| Total | | | 134 |
+| Tier 3 | Sit-out and independent tier | Independents | 10 |
+| Total | | | 138 |
 
 Core principle:
 
@@ -63,9 +63,11 @@ Split the 96 Tier 2 teams into four geographic macro-regions of 24, then divide 
 
 ## Tier 3
 
-Tier 3 contains six Independents.
+Tier 3 contains ten Independents.
 
-The current dynasty uses earned return from Tier 3 rather than automatic annual return. Record the exact movement rule applied in each season archive when determining which Independents return and which Tier 2 teams fall.
+The expanded Tier 3 preserves the original 96-team Tier 2 conference structure after the CFB 27 field increased to 138 programs.
+
+The dynasty uses earned return from Tier 3 rather than automatic annual return. Record the exact movement rule applied in each season archive when determining which Independents return and which Tier 2 teams fall.
 
 ## Annual movement
 
@@ -87,6 +89,7 @@ Use the game's standings order and conference results as the primary basis when 
 - Identify the lowest-performing Tier 2 teams according to the active season rule.
 - Determine which Independents earned promotion.
 - Preserve any team that remains in Tier 3 in the season archive.
+- Keep Tier 2 at exactly 96 teams and Tier 3 at exactly ten teams.
 - Document tiebreak decisions explicitly.
 
 ## Playoff logic
@@ -109,8 +112,9 @@ Working behavior:
 5. Apply all promotions and relegations.
 6. Rebuild Tier 1 geographically at 16 teams per conference.
 7. Rebuild Tier 2 by macro-region at 12 teams per conference.
-8. Publish the next-season alignment.
-9. Verify conference count, divisions, championship settings, nine conference games, protected rivals, and venues before advancing.
+8. Confirm exactly ten Independents in Tier 3.
+9. Publish the next-season alignment.
+10. Verify conference count, divisions, championship settings, nine conference games, protected rivals, and venues before advancing.
 
 ## Manual decisions
 
