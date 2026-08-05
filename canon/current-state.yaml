@@ -1,35 +1,35 @@
 universe:
   id: ds-cfb27-universe
   game: EA Sports College Football 27
-  status: prelaunch-worldbuilding
-  current_season: 2027
-  current_week: preseason
+  status: setup-not-started
+  current_season: null
+  current_week: null
 
 league:
   promotion_relegation_enabled: true
   tier_count: 3
-  alignment_status: not-yet-finalized
-  core_principles:
-    - performance-determines-tier
-    - geography-determines-conference
+  rules_file: world/rules/promotion-relegation.md
+  rules_source: copied-exactly-from-ds-college-football
+  alignment_status: not-yet-created
 
 career:
   coach_id: daniel-sandberg
-  role: head-coach
-  program_id: fedex-university
-  tenure_start_season: 2027
+  planned_role: head-coach
+  planned_program_id: fedex-university
+  status: not-yet-started
 
 featured_program:
   id: fedex-university
-  tier: 3
-  conference: independent
+  planned_tier: 3
+  planned_conference_status: independent
   prestige_stars: 4.5
+  football_status: not-yet-started
 
 rpg:
-  phase: foundation
-  active_storylines_file: rpg/active-storylines.yaml
-  unresolved_events_file: rpg/unresolved-events.yaml
+  status: not-yet-started
+  active_storylines: []
+  completed_events: []
 
 last_updated:
   date: 2026-08-05
-  source: direct-user-confirmation
+  source: direct-user-correction
