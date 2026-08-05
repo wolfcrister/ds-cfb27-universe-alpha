@@ -10,7 +10,11 @@ league:
   tier_count: 3
   rules_file: world/rules/promotion-relegation.md
   rules_source: copied-exactly-from-ds-college-football
-  alignment_status: not-yet-created
+  initial_seeding_file: world/rules/initial-seeding.md
+  alignment_file: world/alignments/current.yaml
+  alignment_source_file: world/alignments/source-data.yaml
+  alignment_checklist: world/alignments/inaugural-build-checklist.md
+  alignment_status: awaiting-final-cfb27-launch-data
 
 career:
   coach_id: daniel-sandberg
@@ -32,4 +36,4 @@ rpg:
 
 last_updated:
   date: 2026-08-05
-  source: direct-user-correction
+  source: direct-user-confirmation
