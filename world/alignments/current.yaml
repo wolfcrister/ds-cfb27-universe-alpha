@@ -1,0 +1,49 @@
+alignment:
+  universe: ds-cfb27-universe
+  game: EA Sports College Football 27
+  status: awaiting-final-launch-data
+  season: null
+  source_file: world/alignments/source-data.yaml
+
+expected_structure:
+  total_programs: 134
+  tier_1: 32
+  tier_2: 96
+  tier_3: 6
+
+actual_structure:
+  total_programs: null
+  tier_1: null
+  tier_2: null
+  tier_3: null
+
+tier_1:
+  qualification:
+    preseason_top_25: []
+    additional_by_ovr: []
+  big_12:
+    north: []
+    south: []
+  big_ten:
+    north: []
+    south: []
+
+tier_2:
+  pac_12: []
+  mountain_west: []
+  conference_usa: []
+  aac: []
+  sun_belt: []
+  sec: []
+  mac: []
+  acc: []
+
+tier_3:
+  independents: []
+
+border_decisions: []
+tiebreak_decisions: []
+validation:
+  passed: false
+  errors:
+    - final CFB 27 launch data not yet available
