@@ -14,7 +14,11 @@ league:
   alignment_file: world/alignments/current.yaml
   alignment_source_file: world/alignments/source-data.yaml
   alignment_checklist: world/alignments/inaugural-build-checklist.md
-  alignment_status: awaiting-final-cfb27-launch-data
+  alignment_status: inaugural-alignment-built
+  total_programs: 138
+  tier_1_programs: 32
+  tier_2_programs: 100
+  tier_3_programs: 6
 
 career:
   coach_id: daniel-sandberg
@@ -36,4 +40,4 @@ rpg:
 
 last_updated:
   date: 2026-08-05
-  source: direct-user-confirmation
+  source: official-cfb27-ratings-and-2026-preseason-coaches-poll
