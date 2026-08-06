@@ -14,9 +14,11 @@ Daniel Sandberg was hired in 2025 so he could build the inaugural program, staff
 - Fred Smith Field is an approximately 50,000-seat stadium.
 - FedEx employees receive free or heavily subsidized tickets.
 - Daniel Sandberg is 40 years old and the inaugural head coach.
-- Sandberg is a seven-year NFL veteran who played for the Dallas Cowboys and Green Bay Packers.
-- He spent five seasons with Green Bay, led the team in rushing once and won one Super Bowl.
-- He retired at age 30 because of the physical toll of playing running back.
+- Sandberg is an eight-year NFL veteran who entered the league in 2008.
+- He played two seasons for the Dallas Cowboys and six for the Green Bay Packers.
+- He joined Green Bay in 2010 and won Super Bowl XLV during his first Packers season.
+- He led the Packers in rushing once and played five seasons alongside AJ Hawk.
+- He completed the 2015 season and announced his retirement during the 2016 offseason because of the physical toll of playing running back.
 - His post-playing career included media work, time in Sweden, high-school coaching, college position coaching and offensive coordinator experience at Colorado State.
 - FedEx had an existing relationship with Sandberg through commercial appearances, employee events and leadership programming.
 - This is Sandberg's first head-coaching position.
@@ -33,8 +35,9 @@ Daniel Sandberg was hired in 2025 so he could build the inaugural program, staff
 The following should not be invented as settled fact until confirmed:
 
 - exact announcement dates
-- exact NFL seasons and career statistics
-- which Super Bowl Sandberg won
+- draft round and college program
+- detailed NFL career statistics
+- the season in which Sandberg led Green Bay in rushing
 - detailed Colorado State records and rankings
 - inaugural assistant coaching staff
 - signed recruits and transfers
@@ -50,8 +53,9 @@ These open details may become storylines, questions, negotiations or later confi
 3. Memphis radio reacts to the first staff and recruiting decisions.
 4. Recruiting commitments and transfer targets begin defining the roster.
 5. Sandberg appears on The Pat McAfee Show after the first major recruit signs.
-6. Check the Mic evaluates the roster once enough players exist for meaningful analysis.
-7. Training-camp coverage shifts attention from the concept to the actual team.
+6. AJ Hawk's five-year history as Sandberg's Packers teammate becomes a natural part of that appearance.
+7. Check the Mic evaluates the roster once enough players exist for meaningful analysis.
+8. Training-camp coverage shifts attention from the concept to the actual team.
 
 ## Archive convention
 
