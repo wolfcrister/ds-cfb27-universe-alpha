@@ -9,12 +9,15 @@
 | Nationality | Swedish |
 | Birthplace | Stockholm, Sweden |
 | Current role | Inaugural head coach, FedEx University |
-| Appointment | 2026, more than one year before the inaugural season |
-| First season | 2027 |
+| Appointment | 2025, ahead of the inaugural season |
+| First season | 2026 |
 | Previous role | Offensive coordinator, Colorado State |
 | Playing position | Running back |
-| NFL experience | Seven seasons |
+| NFL experience | Eight seasons |
+| NFL draft | 2008 |
 | NFL teams | Dallas Cowboys, Green Bay Packers |
+| Packers tenure | 2010-2015 |
+| Championship | Super Bowl XLV |
 | Offensive identity | Aggressive, adaptable Air Raid |
 | Program status | First head-coaching position |
 
@@ -22,9 +25,9 @@
 
 Daniel Sandberg is the inaugural head coach of the FedEx University Couriers in Memphis, Tennessee.
 
-He was appointed during 2026, more than a full season before FedEx University was scheduled to play its first game in 2027. The unusually early appointment made Sandberg more than the football coach. He became one of the principal architects of the entire program.
+He was appointed during 2025 so he could build FedEx University's inaugural program, staff and roster before the Couriers began playing in 2026. The early appointment made Sandberg more than the football coach. He became one of the principal architects of the entire program.
 
-His responsibilities during the extended construction period include:
+His responsibilities during the construction period include:
 
 - defining the football identity
 - recruiting the inaugural roster
@@ -40,23 +43,28 @@ FedEx University enters its first season in Tier 3 as an Independent.
 
 Sandberg arrived in the United States from Sweden as an unconventional football prospect and eventually developed into an NFL running back.
 
-He played seven seasons in the NFL:
+Born in 1986, he followed the natural four-year college path and entered the 2008 NFL Draft at age 22.
 
-1. two seasons with the Dallas Cowboys
-2. five seasons with the Green Bay Packers
+He played eight seasons in the NFL:
+
+1. two seasons with the Dallas Cowboys, 2008-2009
+2. six seasons with the Green Bay Packers, 2010-2015
 
 Sandberg was never treated as a generational superstar, but he became a highly respected professional runner known for vision, balance, reliability and an unusually detailed understanding of blocking structure.
 
-During his five years in Green Bay, he:
+He joined Green Bay in 2010 and immediately became part of the team that won Super Bowl XLV. During his six years with the Packers, he:
 
+- won Super Bowl XLV in his first Green Bay season
 - became the Packers' leading rusher for one season
-- played an important role on a Super Bowl-winning team
 - developed a reputation as a dependable pass protector and receiver
 - became valued inside the organization for preparation and football intelligence
+- played five seasons alongside linebacker AJ Hawk, from 2010 through 2014
 
-He retired at age 30. The decision was voluntary but driven by the accumulated physical cost of playing running back. Sandberg believed he could still contribute, but no longer felt he could prepare and recover at the standard he expected of himself over another full NFL season.
+Sandberg and Hawk were not merely members of the same organization. They shared the Super Bowl season and remained teammates for five years, giving Hawk direct knowledge of Sandberg's preparation, toughness, intelligence and locker-room personality.
 
-He finished his career with seven NFL seasons, one Super Bowl ring and the credibility of a player who had experienced both roster insecurity and championship football.
+Sandberg completed the 2015 season and announced his retirement during the 2016 offseason, around age 30. The decision was voluntary but driven by the accumulated physical cost of playing running back. Sandberg believed he could still contribute, but no longer felt he could prepare and recover at the standard he expected of himself over another full NFL season.
+
+He finished his career with eight NFL seasons, one Super Bowl ring and the credibility of a player who had experienced roster insecurity, a championship run and a long tenure inside one of the league's most scrutinized organizations.
 
 ## Post-playing career
 
@@ -128,7 +136,7 @@ The search committee believed he offered a rare combination:
 
 ### Professional credibility
 
-He had played seven NFL seasons, led an NFL team in rushing and won a Super Bowl. Recruits and families would immediately recognize that he understood the standard required at the highest level.
+He had played eight NFL seasons, led the Packers in rushing for one season and won Super Bowl XLV. Recruits and families would immediately recognize that he understood the standard required at the highest level.
 
 ### Proven coaching development
 
@@ -150,7 +158,7 @@ His proposal covered culture, recruiting, staffing, employee engagement, player 
 
 ### Willingness to accept the full project
 
-FedEx did not need a coach interested only in Saturdays. It needed someone willing to spend more than a year recruiting players to a team that did not yet exist, hiring every member of staff and helping turn corporate resources into a credible football environment.
+FedEx did not need a coach interested only in Saturdays. It needed someone willing to recruit players to a team that did not yet exist, hire every member of staff and help turn corporate resources into a credible football environment.
 
 Sandberg wanted precisely that challenge.
 
@@ -180,6 +188,7 @@ Sandberg's hiring generated both fascination and skepticism.
 Supporters saw:
 
 - a Super Bowl-winning former player
+- an eight-year NFL veteran with six seasons in Green Bay
 - a rising offensive coach
 - an intelligent communicator
 - a natural representative for an unconventional university
@@ -207,25 +216,36 @@ The inaugural roster must be assembled through:
 
 The intended roster identity is talented but incomplete. FedEx may attract several players above the normal level of a new program, but the offensive line, defensive rotation and overall depth will require time.
 
-A 7-5 or 8-4 inaugural season is the internal competitive target if the team is coached and assembled well. It is an expectation, not a guaranteed canonical result.
+Promotion from Tier 3 is the primary competitive objective for the inaugural season. In the current structure, approximately four wins may be enough, depending on the national results and placement rules.
 
 ## Career timeline
 
-| Age | Stage |
-|---:|---|
-| Early 20s | Reaches the NFL after moving from Sweden into American football |
-| 23-24 | Plays two seasons for the Dallas Cowboys |
-| 25-29 | Plays five seasons for the Green Bay Packers |
-| 30 | Retires from professional football |
+| Year / age | Stage |
+|---|---|
+| 1986 | Born in Stockholm, Sweden |
+| 2008, age 22 | Enters the NFL Draft and joins the Dallas Cowboys |
+| 2008-2009 | Plays two seasons for Dallas |
+| 2010 | Joins Green Bay and wins Super Bowl XLV |
+| 2010-2014 | Plays five seasons alongside AJ Hawk |
+| 2010-2015 | Completes six seasons with the Packers |
+| 2016, age 29-30 | Announces retirement during the offseason |
 | Early 30s | Works in media, commercial projects and leadership events |
 | Early-to-mid 30s | Begins high-school and player-development coaching |
 | Mid 30s | Enters full-time college coaching |
 | Late 30s | Advances from running backs coach to run-game coordinator and offensive coordinator |
-| 39 | Hired by FedEx University during the program's construction period |
-| 40 | Builds the inaugural staff and roster ahead of the 2027 season |
+| 39 | Hired by FedEx University during 2025 |
+| 40 | Builds the inaugural roster and leads FedEx into the 2026 season |
 
 ## Canon status
 
-The broad career history, FedEx relationship, Colorado State role and appointment structure are confirmed from direct user description and collaborative canon development.
+The NFL timeline is now confirmed canon:
 
-Exact NFL seasons, statistics, Super Bowl year, early coaching employers and detailed Colorado State results remain intentionally unspecified until separately established.
+- born in 1986
+- entered the 2008 NFL Draft
+- Dallas Cowboys, 2008-2009
+- Green Bay Packers, 2010-2015
+- Super Bowl XLV champion
+- AJ Hawk teammate, 2010-2014
+- retirement announced during the 2016 offseason
+
+Exact draft round, college program, detailed NFL statistics, the season in which Sandberg led Green Bay in rushing, early coaching employers and detailed Colorado State results remain intentionally unspecified until separately established.
