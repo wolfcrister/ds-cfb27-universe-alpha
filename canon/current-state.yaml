@@ -3,7 +3,7 @@ universe:
   game: EA Sports College Football 27
   status: prelaunch-media-active
   current_calendar_year: 2026
-  inaugural_playing_season: 2027
+  inaugural_playing_season: 2026
   current_season: null
   current_week: null
 
@@ -28,7 +28,7 @@ career:
   program_id: fedex-university
   appointment_status: announced
   coaching_status: first-practice-and-team-construction
-  first_playing_season: 2027
+  first_playing_season: 2026
   first_head_coaching_job: true
 
 featured_program:
