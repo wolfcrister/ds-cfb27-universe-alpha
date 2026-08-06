@@ -32,6 +32,8 @@ Daniel Sandberg was hired in 2025 so he could build the inaugural program, staff
 1. [Daniel Sandberg introductory press conference](event-01-introductory-press-conference.md)
 2. [ESPN long-form interview at Fred Smith Field](event-02-espn-long-form-interview.md)
 3. [Media and social reaction to the ESPN interview](event-03-espn-interview-reaction.md)
+4. [Marcus Whitfield becomes the first player commitment](event-04-first-player-commitment.md)
+5. [Rucker, Booker and Kennedy form the first foundational recruiting wave](event-05-foundational-recruiting-wave.md)
 
 ## Open details
 
@@ -43,23 +45,29 @@ The following should not be invented as settled fact until confirmed:
 - detailed NFL career statistics
 - awards beyond the 2014 rushing title and Super Bowl XLV
 - detailed Colorado State records and rankings
-- inaugural assistant coaching staff
-- signed recruits and transfers
+- remaining inaugural assistant coaching staff
+- full generated roster
+- final in-game player ratings and jersey numbers
 - final campus construction details
 - the inaugural 2026 schedule
 
 These open details may become storylines, questions, negotiations or later confirmed announcements.
 
+## Current foundational players
+
+- Marcus Whitfield, three-star offensive tackle and first commitment
+- Jalen Rucker, four-star Memphis cornerback and first blue-chip commitment
+- DeShawn Booker, approximately 84-overall JUCO defensive tackle
+- Miles Kennedy, approximately 86-overall Georgia transfer and projected inaugural quarterback
+
 ## Continuing media sequence
 
-1. Staff hiring becomes the first continuing football storyline.
-2. The head scout and scouting department are introduced.
-3. Memphis radio reacts to the first staff and recruiting decisions.
-4. Recruiting commitments and transfer targets begin defining the roster.
-5. Sandberg appears on The Pat McAfee Show after the first major recruit signs.
-6. AJ Hawk's five-year history as Sandberg's Packers teammate and witness to his 2014 rushing title becomes a natural part of that appearance.
-7. Check the Mic evaluates the roster once enough players exist for meaningful analysis.
-8. Training-camp coverage shifts attention from the concept to the actual team.
+1. Additional generated roster construction continues largely outside the national spotlight.
+2. Particularly important signings receive individual profiles and media events.
+3. Sandberg appears on The Pat McAfee Show after Miles Kennedy's landmark transfer.
+4. AJ Hawk's five-year history as Sandberg's Packers teammate and witness to his 2014 rushing title becomes a natural part of that appearance.
+5. Check the Mic evaluates the roster once enough players exist for meaningful analysis.
+6. Training-camp coverage shifts attention from the concept to the actual team.
 
 ## Archive convention
 
