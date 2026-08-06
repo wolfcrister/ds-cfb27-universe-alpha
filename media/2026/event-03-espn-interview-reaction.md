@@ -16,6 +16,8 @@ The dominant emerging public identity is:
 
 Critics increasingly separate their dislike of the corporate-university model from their opinion of Sandberg personally.
 
+Sandberg's playing résumé also receives renewed attention. He was not merely a dependable former Packer. He was a Super Bowl champion and the 2014 NFL rushing champion, with a reputation as one of the league's smartest and most physical complete backs.
+
 ## Major coverage
 
 ### ESPN
@@ -85,6 +87,7 @@ The show's graphic summarizes the project as:
 - no players
 - huge stadium
 - Swedish head coach
+- former NFL rushing champion
 - cargo-plane flyover
 - fear of public humiliation
 - Ted Lasso aspirations
@@ -92,11 +95,21 @@ The show's graphic summarizes the project as:
 
 ### AJ Hawk's reaction
 
-AJ Hawk is significantly more animated than usual because Sandberg was not simply another former Packer. They were teammates for five seasons, from 2010 through 2014, and won Super Bowl XLV together during Sandberg's first season in Green Bay.
+AJ Hawk is significantly more animated than usual because Sandberg was not simply another former Packer. They were teammates for five seasons, from 2010 through 2014, won Super Bowl XLV together and remained teammates through Sandberg's rise to the 2014 NFL rushing title.
 
-When Pat describes Sandberg as an interesting former player turned coach, AJ immediately interrupts:
+When Pat initially frames Sandberg as an interesting former player turned coach, AJ cuts him off:
 
-> No, he was a real football guy. Daniel knew everything we were doing, not just the running-back stuff. Protections, fronts, why the linebackers were moving, what the safeties were showing. He was one of those players you could actually talk football with.
+> Former player? He led the league in rushing. He was a star. Don't make him sound like some smart backup who hung around.
+
+AJ then explains what made Sandberg unusual:
+
+> The rushing title was real, obviously, but that wasn't even the first thing people in the building talked about. Daniel knew everything we were doing, not just the running-back stuff. Protections, fronts, why the linebackers were moving, what the safeties were showing. He could talk through the whole offense.
+
+Pat asks what Sandberg was like to face in practice.
+
+AJ answers:
+
+> Physical. Annoyingly physical. He wasn't the fastest back in the league, but he understood angles and leverage, and he finished everything. By 2014 everybody knew what was coming and he still led the NFL.
 
 AJ emphasizes that Sandberg's calm public manner is authentic rather than newly manufactured for coaching.
 
@@ -106,13 +119,13 @@ Pat asks whether Sandberg can recruit American teenagers as a Scandinavian first
 
 AJ answers:
 
-> Players will know in five minutes that he played. You can't fake that. And the smart ones are going to realize pretty quickly that he can help them.
+> Players will know in five minutes that he played. And when they realize he went from a sixth-round pick and a trade piece to leading the league in rushing, they're going to listen. He can actually tell a kid that development isn't always linear because he lived it.
 
 When the cargo-plane flyover is mentioned, AJ finally breaks into a grin and says:
 
 > If they don't do that, the whole university should shut down.
 
-The exchange changes the tone of the segment. Sandberg is no longer treated merely as an amusing corporate-football character. AJ gives him direct locker-room validation from a five-year relationship and a shared championship season.
+The exchange changes the tone of the segment. Sandberg is no longer treated merely as an amusing corporate-football character. AJ gives him direct locker-room validation from a five-year relationship, a shared championship and personal knowledge of his peak season.
 
 The crew proposes unofficial traditions:
 
@@ -177,9 +190,9 @@ Aviation enthusiasts eventually overtake the football discussion by debating air
 - Memphis residents say Sandberg sounds like a real person rather than corporate public relations.
 - FedEx employees who previously had little interest in college football begin identifying with the Couriers.
 - Scandinavian sports accounts celebrate the Eriksson and McVay combination.
-- Packers fans circulate old clips emphasizing Sandberg's intelligence, pass protection and role on the Super Bowl XLV team.
+- Packers fans circulate old clips from Sandberg's 2014 rushing-title season, alongside pass-protection and film-room breakdowns.
 - AJ Hawk's personal endorsement is repeatedly clipped as evidence that Sandberg's football intelligence and calm leadership style existed long before FedEx University.
-- Recruiting analysts note the appeal of elite resources, immediate opportunity and no inherited roster hierarchy.
+- Recruiting analysts emphasize the credibility of a coach who developed from UCLA rotation player to late sixth-round pick, trade piece, Super Bowl champion and NFL rushing leader.
 
 ## Representative skeptical reactions
 
@@ -197,15 +210,19 @@ The most common reaction is reluctant fascination. Users describe wanting the pr
 
 A serious discussion develops around Sandberg's argument that truthful evaluation can be kinder than keeping a player through years of false hope.
 
+His own development becomes part of that discussion. Users point out that a coach who once sat in a college rotation, fell to the sixth round, was traded and later led the NFL in rushing has strong personal reasons not to dismiss late developers too quickly.
+
 ### r/GreenBayPackers
 
-Old Sandberg film circulates, especially pass-protection clips and footage from the 2010 championship season. Packers fans describe him as dependable, intelligent and trusted on third down.
+Old Sandberg film circulates heavily, especially footage from the 2010 championship season and the 2014 rushing-title year.
 
-AJ Hawk's comments trigger a second wave of posts from fans who remember Sandberg as more important inside the offense than his public profile suggested.
+Packers fans describe him as a genuine star at his peak, but one whose reputation was still rooted in intelligence, physical running, pass protection and complete command of the offense.
+
+AJ Hawk's comments trigger a second wave of posts.
 
 A highly upvoted post reads:
 
-> AJ actually knows him. Five years together and a ring. That endorsement means more than every corporate press release FedEx could publish.
+> AJ watched him arrive as a trade piece, win a ring and eventually lead the NFL in rushing. That endorsement means more than every corporate press release FedEx could publish.
 
 ### r/soccer
 
@@ -222,6 +239,7 @@ The highest-profile joke claims Sven would have handled the transfer portal by q
 - He makes a synthetic institution feel more human.
 - The flyover discussion generates enormous free publicity.
 - AJ Hawk's unsolicited support provides independent football credibility that cannot be manufactured by the university.
+- Renewed attention to Sandberg's 2014 rushing title strengthens his recruiting and national-media credibility.
 
 ### Concerns
 
