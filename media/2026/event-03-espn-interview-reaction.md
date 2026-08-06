@@ -90,6 +90,30 @@ The show's graphic summarizes the project as:
 - Ted Lasso aspirations
 - possible execution for treason
 
+### AJ Hawk's reaction
+
+AJ Hawk is significantly more animated than usual because Sandberg was not simply another former Packer. They were teammates for five seasons, from 2010 through 2014, and won Super Bowl XLV together during Sandberg's first season in Green Bay.
+
+When Pat describes Sandberg as an interesting former player turned coach, AJ immediately interrupts:
+
+> No, he was a real football guy. Daniel knew everything we were doing, not just the running-back stuff. Protections, fronts, why the linebackers were moving, what the safeties were showing. He was one of those players you could actually talk football with.
+
+AJ emphasizes that Sandberg's calm public manner is authentic rather than newly manufactured for coaching.
+
+> He wasn't a screamer then either. But he was competitive as hell. He'd tell you exactly what he saw, and if he thought you were wrong, he'd say it. He just didn't need to make a show out of it.
+
+Pat asks whether Sandberg can recruit American teenagers as a Scandinavian first-time head coach.
+
+AJ answers:
+
+> Players will know in five minutes that he played. You can't fake that. And the smart ones are going to realize pretty quickly that he can help them.
+
+When the cargo-plane flyover is mentioned, AJ finally breaks into a grin and says:
+
+> If they don't do that, the whole university should shut down.
+
+The exchange changes the tone of the segment. Sandberg is no longer treated merely as an amusing corporate-football character. AJ gives him direct locker-room validation from a five-year relationship and a shared championship season.
+
 The crew proposes unofficial traditions:
 
 - student section: The Sorting Facility
@@ -102,7 +126,7 @@ The crew proposes unofficial traditions:
 
 McAfee also gives Sandberg serious credit for admitting that the program has not yet earned respect.
 
-Sandberg receives an open invitation to appear after FedEx signs its first major recruit.
+Sandberg receives an open invitation to appear after FedEx signs its first major recruit. Pat explicitly tells AJ that he will be responsible for introducing his former teammate properly when the appearance happens.
 
 ## Viral social-media moments
 
@@ -153,7 +177,8 @@ Aviation enthusiasts eventually overtake the football discussion by debating air
 - Memphis residents say Sandberg sounds like a real person rather than corporate public relations.
 - FedEx employees who previously had little interest in college football begin identifying with the Couriers.
 - Scandinavian sports accounts celebrate the Eriksson and McVay combination.
-- Packers fans circulate old clips emphasizing Sandberg's intelligence and pass protection.
+- Packers fans circulate old clips emphasizing Sandberg's intelligence, pass protection and role on the Super Bowl XLV team.
+- AJ Hawk's personal endorsement is repeatedly clipped as evidence that Sandberg's football intelligence and calm leadership style existed long before FedEx University.
 - Recruiting analysts note the appeal of elite resources, immediate opportunity and no inherited roster hierarchy.
 
 ## Representative skeptical reactions
@@ -174,7 +199,13 @@ A serious discussion develops around Sandberg's argument that truthful evaluatio
 
 ### r/GreenBayPackers
 
-Old Sandberg film circulates, especially pass-protection clips. Packers fans describe him as dependable, intelligent and trusted on third down.
+Old Sandberg film circulates, especially pass-protection clips and footage from the 2010 championship season. Packers fans describe him as dependable, intelligent and trusted on third down.
+
+AJ Hawk's comments trigger a second wave of posts from fans who remember Sandberg as more important inside the offense than his public profile suggested.
+
+A highly upvoted post reads:
+
+> AJ actually knows him. Five years together and a ring. That endorsement means more than every corporate press release FedEx could publish.
 
 ### r/soccer
 
@@ -190,6 +221,7 @@ The highest-profile joke claims Sven would have handled the transfer portal by q
 - He frames resources as responsibility rather than achievement.
 - He makes a synthetic institution feel more human.
 - The flyover discussion generates enormous free publicity.
+- AJ Hawk's unsolicited support provides independent football credibility that cannot be manufactured by the university.
 
 ### Concerns
 
