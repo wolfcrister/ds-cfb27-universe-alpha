@@ -35,6 +35,7 @@ Daniel Sandberg was hired in 2025 so he could build the inaugural program, staff
 4. [Marcus Whitfield becomes the first player commitment](event-04-first-player-commitment.md)
 5. [Rucker, Booker and Kennedy form the first foundational recruiting wave](event-05-foundational-recruiting-wave.md)
 6. [National Signing Day media carousel for the 60-player inaugural class](event-06-national-signing-day-media-carousel.md)
+7. [First practice press conference and emerging team identity](event-07-first-practice-press-conference.md)
 
 ## Open details
 
@@ -69,15 +70,19 @@ These open details may become storylines, questions, negotiations or later confi
 - Several four-star players provide top-end talent.
 - A smaller group of two-star recruits provides developmental depth.
 - The intake combines high-school recruits, JUCO players and transfers.
+- Full-team practice has begun.
+- The tight end group appears stronger than expected.
+- The offense will be built from the offensive line outward and will use frequent passing to open the field.
+- Leadership and captaincy will be allowed to emerge naturally rather than being assigned immediately.
 
 ## Continuing media sequence
 
-1. The complete generated roster is documented once available in game.
-2. Particularly important players receive individual profiles and media events.
-3. Sandberg appears on The Pat McAfee Show after Miles Kennedy's landmark transfer and the 60-player signing class.
-4. Check the Mic evaluates the completed roster and projected depth chart.
-5. Spring practice and training-camp coverage shift attention from recruiting to the actual team.
-6. The first depth chart, captains and quarterback decision become the next major football stories.
+1. The complete generated roster and initial position groups are documented once available in game.
+2. Check the Mic evaluates the completed roster and early practice footage.
+3. Miles Kennedy's quarterback status becomes a major camp storyline.
+4. The unexpected strength of the tight end room becomes an offensive subplot.
+5. Natural locker-room leaders emerge and the first captains are eventually selected.
+6. The first depth chart and opening-game preparation move the project from construction into active season coverage.
 
 ## Archive convention
 
