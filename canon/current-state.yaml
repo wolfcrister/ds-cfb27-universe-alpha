@@ -27,7 +27,7 @@ career:
   role: head-coach
   program_id: fedex-university
   appointment_status: announced
-  coaching_status: program-construction
+  coaching_status: first-practice-and-team-construction
   first_playing_season: 2027
   first_head_coaching_job: true
 
@@ -37,23 +37,36 @@ featured_program:
   conference_status: independent
   prestige_stars: 4.5
   institutional_status: founding-year
-  football_status: pre-inaugural
+  football_status: roster-complete-first-practice
 
 media:
   status: active
   active_year: 2026
   archive_index: media/2026/README.md
-  phase: founding-announcement-and-program-construction
+  phase: roster-complete-first-practice
 
 rpg:
   status: active
   mode: pre-inaugural-media-and-career
   active_storylines:
+    - inaugural-roster-evaluation
+    - miles-kennedy-quarterback-status
+    - unexpected-tight-end-depth
+    - offensive-line-led-identity
+    - first-captains-and-natural-leadership
+  completed_storylines:
     - fedex-university-founding
     - daniel-sandberg-appointment
     - inaugural-staff-construction
     - inaugural-roster-recruitment
-  completed_events: []
+  completed_events:
+    - event-01-introductory-press-conference
+    - event-02-espn-long-form-interview
+    - event-03-espn-interview-reaction
+    - event-04-first-player-commitment
+    - event-05-foundational-recruiting-wave
+    - event-06-national-signing-day-media-carousel
+    - event-07-first-practice-press-conference
 
 last_updated:
   date: 2026-08-06
