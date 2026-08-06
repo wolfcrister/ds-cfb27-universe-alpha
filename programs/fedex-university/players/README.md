@@ -36,3 +36,6 @@ Profiles should separate confirmed canon from details that remain open. Suggeste
 ## Indexed players
 
 - [Marcus "Marc" Whitfield](marcus-whitfield.md) - three-star Memphis-area offensive lineman and first verbal commitment in program history
+- [Jalen Rucker](jalen-rucker.md) - four-star Whitehaven cornerback and first blue-chip commitment
+- [DeShawn Booker](deshawn-booker.md) - approximately 84-overall JUCO defensive tackle and first immediate defensive centerpiece
+- [Miles Kennedy](miles-kennedy.md) - Georgia transfer, improviser quarterback and projected inaugural starter
