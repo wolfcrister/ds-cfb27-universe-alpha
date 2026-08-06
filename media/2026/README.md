@@ -34,6 +34,7 @@ Daniel Sandberg was hired in 2025 so he could build the inaugural program, staff
 3. [Media and social reaction to the ESPN interview](event-03-espn-interview-reaction.md)
 4. [Marcus Whitfield becomes the first player commitment](event-04-first-player-commitment.md)
 5. [Rucker, Booker and Kennedy form the first foundational recruiting wave](event-05-foundational-recruiting-wave.md)
+6. [National Signing Day media carousel for the 60-player inaugural class](event-06-national-signing-day-media-carousel.md)
 
 ## Open details
 
@@ -60,14 +61,23 @@ These open details may become storylines, questions, negotiations or later confi
 - DeShawn Booker, approximately 84-overall JUCO defensive tackle
 - Miles Kennedy, approximately 86-overall Georgia transfer and projected inaugural quarterback
 
+## Confirmed roster construction
+
+- FedEx University signs 60 players in its inaugural class.
+- All 60 receive full athletic scholarships.
+- The class is built primarily around three-star prospects.
+- Several four-star players provide top-end talent.
+- A smaller group of two-star recruits provides developmental depth.
+- The intake combines high-school recruits, JUCO players and transfers.
+
 ## Continuing media sequence
 
-1. Additional generated roster construction continues largely outside the national spotlight.
-2. Particularly important signings receive individual profiles and media events.
-3. Sandberg appears on The Pat McAfee Show after Miles Kennedy's landmark transfer.
-4. AJ Hawk's five-year history as Sandberg's Packers teammate and witness to his 2014 rushing title becomes a natural part of that appearance.
-5. Check the Mic evaluates the roster once enough players exist for meaningful analysis.
-6. Training-camp coverage shifts attention from the concept to the actual team.
+1. The complete generated roster is documented once available in game.
+2. Particularly important players receive individual profiles and media events.
+3. Sandberg appears on The Pat McAfee Show after Miles Kennedy's landmark transfer and the 60-player signing class.
+4. Check the Mic evaluates the completed roster and projected depth chart.
+5. Spring practice and training-camp coverage shift attention from recruiting to the actual team.
+6. The first depth chart, captains and quarterback decision become the next major football stories.
 
 ## Archive convention
 
