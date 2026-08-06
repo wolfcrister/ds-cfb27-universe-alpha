@@ -2,16 +2,16 @@
 
 ## Status
 
-The 2026 calendar year is the active pre-football media period for FedEx University.
+The 2026 calendar year contains the final program-building period and the inaugural football season for FedEx University.
 
-FedEx University will begin playing football in the 2027 season. Daniel Sandberg has been appointed more than a year in advance so he can build the inaugural program, staff and roster.
+Daniel Sandberg was hired in 2025 so he could build the inaugural program, staff and roster before FedEx University began playing in 2026.
 
 ## Confirmed starting context
 
 - FedEx University is a new corporate university in Memphis, Tennessee.
 - The football program replaces Kennesaw State in the national structure.
-- The Couriers will begin in Tier 3 as an Independent.
-- Fred Smith Field is planned as an approximately 50,000-seat stadium.
+- The Couriers begin in Tier 3 as an Independent.
+- Fred Smith Field is an approximately 50,000-seat stadium.
 - FedEx employees receive free or heavily subsidized tickets.
 - Daniel Sandberg is 40 years old and the inaugural head coach.
 - Sandberg is a seven-year NFL veteran who played for the Dallas Cowboys and Green Bay Packers.
@@ -22,31 +22,36 @@ FedEx University will begin playing football in the 2027 season. Daniel Sandberg
 - This is Sandberg's first head-coaching position.
 - His offensive identity is an adaptable Air Raid with a meaningful rushing and receiving role for running backs.
 
+## Archived events
+
+1. [Daniel Sandberg introductory press conference](event-01-introductory-press-conference.md)
+2. [ESPN long-form interview at Fred Smith Field](event-02-espn-long-form-interview.md)
+3. [Media and social reaction to the ESPN interview](event-03-espn-interview-reaction.md)
+
 ## Open details
 
 The following should not be invented as settled fact until confirmed:
 
-- exact announcement date
+- exact announcement dates
 - exact NFL seasons and career statistics
 - which Super Bowl Sandberg won
 - detailed Colorado State records and rankings
 - inaugural assistant coaching staff
 - signed recruits and transfers
-- final campus and stadium construction details
-- the inaugural 2027 schedule
+- final campus construction details
+- the inaugural 2026 schedule
 
 These open details may become storylines, questions, negotiations or later confirmed announcements.
 
-## Suggested opening sequence
+## Continuing media sequence
 
-1. FedEx formally announces the university and football program.
-2. National media reacts to the corporate-university model.
-3. Daniel Sandberg is introduced as inaugural head coach.
-4. Sandberg holds his introductory press conference.
-5. A major network conducts a long-form interview.
-6. Local Memphis media examines the campus, stadium and employee-ticket model.
-7. Analysts debate whether Sandberg is a visionary appointment or a corporate celebrity hire.
-8. Staff hiring and recruiting become the first continuing football storylines.
+1. Staff hiring becomes the first continuing football storyline.
+2. The head scout and scouting department are introduced.
+3. Memphis radio reacts to the first staff and recruiting decisions.
+4. Recruiting commitments and transfer targets begin defining the roster.
+5. Sandberg appears on The Pat McAfee Show after the first major recruit signs.
+6. Check the Mic evaluates the roster once enough players exist for meaningful analysis.
+7. Training-camp coverage shifts attention from the concept to the actual team.
 
 ## Archive convention
 
