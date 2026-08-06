@@ -23,6 +23,8 @@ The universe begins with FedEx University, a new corporate university in Memphis
 
 ## Current phase
 
-Prelaunch worldbuilding and technical foundation for the inaugural CFB 27 season.
+The inaugural roster is complete and FedEx University has entered the first-practice and early team-construction phase.
+
+Recruiting and transfer-portal construction are complete. The next major work is documenting the generated roster, identifying the depth chart and leaders, establishing the quarterback situation, and moving into opening-game preparation.
 
 See `PROJECT_INSTRUCTIONS.md` and `canon/current-state.yaml` before making substantial changes.
