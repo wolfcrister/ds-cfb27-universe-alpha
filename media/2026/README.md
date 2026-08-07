@@ -36,6 +36,7 @@ Daniel Sandberg was hired in 2025 so he could build the inaugural program, staff
 5. [Rucker, Booker and Kennedy form the first foundational recruiting wave](event-05-foundational-recruiting-wave.md)
 6. [National Signing Day media carousel for the 60-player inaugural class](event-06-national-signing-day-media-carousel.md)
 7. [First practice press conference and emerging team identity](event-07-first-practice-press-conference.md)
+8. [Pat McAfee Show appearance and national reaction cycle](event-08-pat-mcafee-show-and-reaction.md)
 
 ## Open details
 
@@ -74,6 +75,9 @@ These open details may become storylines, questions, negotiations or later confi
 - The tight end group appears stronger than expected.
 - The offense will be built from the offensive line outward and will use frequent passing to open the field.
 - Leadership and captaincy will be allowed to emerge naturally rather than being assigned immediately.
+- Graham Harrell and Daniel Sandberg build the offensive game plan together.
+- Harrell calls plays on game day while Sandberg retains override authority.
+- Promotion is an explicit inaugural-season expectation, but the program also views the first season as a developmental experiment without precedent at this level.
 
 ## Continuing media sequence
 
